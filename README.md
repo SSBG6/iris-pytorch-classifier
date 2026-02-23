@@ -1,44 +1,44 @@
-#Iris Classification Using PyTorch
+IRIS CLASSIFICATION USING PYTORCH
+A machine learning project that uses a neural network built with PyTorch to predict Iris flower species based on biometric features.
 
-A machine learning project implementing a neural network classifier using PyTorch to predict Iris flower species based on biometric features.
+OVERVIEW
 
-Overview
+This project demonstrates the development of a supervised machine learning model using PyTorch to classify Iris flowers into three species:
 
-This project demonstrates the development of a supervised machine learning model using PyTorch to classify Iris flowers into three species: Setosa, Versicolor, and Virginica.
+Setosa
+Versicolor
+Virginica
 
-It covers the full machine learning pipeline including data preprocessing, model design, training, evaluation, and performance analysis.
+It covers the full machine learning pipeline, including:
+
+Data preprocessing
+Model design
+Training
+Evaluation
+Performance analysis
 
 The goal is to showcase practical skills in deep learning, data handling, and model optimization.
 
-Objectives
+OBJECTIVES
 
 Implement a neural network using PyTorch
-
-Train and evaluate on the Iris dataset
-
+Train and evaluate the model on the Iris dataset
 Understand feature-based classification
-
 Apply best practices in machine learning experimentation
 
 Build a reproducible research workflow
 
-Technologies Used
+TECHNOLOGIES USED
 
 Python 3.x
-
 PyTorch
-
 NumPy
-
 Pandas
-
 Scikit-learn
-
 Matplotlib
+Google Colab
 
-Jupyter Notebook / Google Colab
-
-Dataset
+DATASET
 
 Name: Iris Dataset
 Source: UCI Machine Learning Repository / Scikit-learn
@@ -46,13 +46,10 @@ Source: UCI Machine Learning Repository / Scikit-learn
 Features:
 
 Sepal Length
-
 Sepal Width
-
 Petal Length
 
 Petal Width
 
 Target:
-
 Species (3 Classes)
